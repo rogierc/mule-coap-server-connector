@@ -1,3 +1,5 @@
+# Project has moved to: [https://github.com/teslanet-nl/mule-coap-server-connector](https://github.com/teslanet-nl/mule-coap-server-connector)
+
 # Mule CoAP connector - CoapServer
 ![Mule-Coap logo](icons/coap-logo.svg)
 
